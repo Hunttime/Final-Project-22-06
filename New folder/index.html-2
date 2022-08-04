@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>DAY2CHALLENCE!</title>
+</head>
+<body>
+    <h1>This is a heading</h1>
+
+    <p>This is a paragraph.</p>
+    
+    <a href="https://www.google.com">Google</a>
+    
+    <ul>
+       <li>Item 1</li>
+       <li>Item 2</li>
+       <li>Item 3</li>
+    </ul>
+    
+</body>
+</html>
